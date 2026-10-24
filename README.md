@@ -23,5 +23,3 @@ An exploratory data analysis project using Python, Pandas, NumPy, and Plotly to 
 - Revenue by payment method and category
 - Data-driven findings, business questions, and limitations
 
-
-Add your name and GitHub profile to the notebook and README. Confirm that you have permission to publish the dataset, and do not upload private or confidential information.
