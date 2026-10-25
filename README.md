@@ -3,7 +3,7 @@
 An exploratory data analysis project using Python, Pandas, NumPy, and Plotly to inspect e-commerce sales, calculate KPIs, and build four interactive visualizations.
 
 ## Project contents
-- `Internship.ipynb` — polished analysis notebook and interactive charts
+- `Internship.py` — polished analysis notebook and interactive charts
 - `sales_dataset.csv` — dataset supplied with the project
 -  `requirements.txt` — Python dependencies
 
