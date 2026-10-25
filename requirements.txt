@@ -1,5 +1,5 @@
 pandas
-numpy
-plotly
-jupyter
+matplotlib
+seaborn
 ipython
+numpy
