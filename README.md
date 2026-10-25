@@ -1,9 +1,9 @@
 # Sales-Analysis-Dashboard-
 
-An exploratory data analysis project using Python, Pandas, NumPy, and Plotly to inspect e-commerce sales, calculate KPIs, and build four interactive visualizations.
+An exploratory data analysis project using Python, Pandas, NumPy, Matplotlib and Seaborn  to inspect e-commerce sales, calculate KPIs, and build four interactive visualizations.
 
 ## Project contents
-- `Internship.py` — polished analysis notebook and interactive charts
+- `Internship.py` — polished analysis python script and interactive charts and visuals.
 - `sales_dataset.csv` — dataset supplied with the project
 -  `requirements.txt` — Python dependencies
 
@@ -21,5 +21,5 @@ An exploratory data analysis project using Python, Pandas, NumPy, and Plotly to 
 - Revenue by product category
 - Revenue distribution by region
 - Revenue by payment method and category
-- Data-driven findings, business questions, and limitations
+  
 
