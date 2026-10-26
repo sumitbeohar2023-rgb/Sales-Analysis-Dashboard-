@@ -6,10 +6,11 @@ An exploratory data analysis project using Python, Pandas, NumPy, Matplotlib and
 - `Internship.py` — polished analysis python script and interactive charts and visuals.
 - `sales_dataset.csv` — dataset supplied with the project
 -  `requirements.txt` — Python dependencies
-
+-  'dashboard.py'- This is the dashboard file which is made using Streamlit Library in python.
+ 
 ## Run the project
 1. Download or clone this repository.
-2. Keep `Internship.py` in separate folder example say "python" and `sales_dataset.csv` in the desktop.
+2. Keep `Internship.py` in separate folder example say "python" and `sales_dataset.csv` in the same folder.
 3. Install dependencies: `pip install -r requirements.txt`
 4. Open the VS Code with all the requirements setup and paste the file into the IDE. 
 5. Run the file in VS Code.
